@@ -1,0 +1,2 @@
+https://stellargraph.readthedocs.io/en/stable/demos/link-prediction/hinsage-link-prediction.html
+https://stellargraph.readthedocs.io/en/stable/hinsage.html
